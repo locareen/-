@@ -1,6 +1,6 @@
 #!/bin/bash
 
-path=~/Documents/index.txt
+path=~/index.txt
 #保存先を指定
 
 while :
